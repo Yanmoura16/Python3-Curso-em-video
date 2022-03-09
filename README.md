@@ -8,6 +8,6 @@ Python 3 Curso em video
 <p>Exercício 05 = Descobrindo sucessor e antecessor de um número
 <p>Exercício 06 = Calculando Dobro, triplo e raiz quadrada de um número
 <p>Exercício 07 = Cálculo de média do aluno
-<p>Exercício 08 =
+<p>Exercício 08 = Conversor de medida
 <p>Exercício 09 =
 <p>Exercício 10 =
