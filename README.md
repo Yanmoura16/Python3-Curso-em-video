@@ -9,5 +9,5 @@ Python 3 Curso em video
 <p>Exercício 06 = Calculando Dobro, triplo e raiz quadrada de um número
 <p>Exercício 07 = Cálculo de média do aluno
 <p>Exercício 08 = Conversor de medida
-<p>Exercício 09 =
-<p>Exercício 10 =
+<p>Exercício 09 = Tabuada
+<p>Exercício 10 = Conversor R$ para $ 
