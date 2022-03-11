@@ -13,6 +13,6 @@ Python 3 Curso em video
 <p>Exercício 10 = Conversor R$ para $ 
 <p>Exercício 11 = Cálculo de área 
 <p>Exercício 12 = Cálculo de desconto
-<p>Exercício 13 =
+<p>Exercício 13 = Cálculo de Salário com aumento
 <p>Exercício 14 = 
 <p>Exercício 15 = 
