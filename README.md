@@ -11,3 +11,8 @@ Python 3 Curso em video
 <p>Exercício 08 = Conversor de medida
 <p>Exercício 09 = Tabuada
 <p>Exercício 10 = Conversor R$ para $ 
+<p>Exercício 11 = Cálculo de área 
+<p>Exercício 12 = 
+<p>Exercício 13 =
+<p>Exercício 14 = 
+<p>Exercício 15 = 
