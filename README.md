@@ -14,5 +14,5 @@ Python 3 Curso em video
 <p>Exercício 11 = Cálculo de área 
 <p>Exercício 12 = Cálculo de desconto
 <p>Exercício 13 = Cálculo de Salário com aumento
-<p>Exercício 14 = 
-<p>Exercício 15 = 
+<p>Exercício 14 = Conversor de temperatura
+<p>Exercício 15 = Cálculo aluguel de carro
