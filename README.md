@@ -19,7 +19,7 @@ Python 3 Curso em video
 <p>Exercício 16 = Quebrando um número 
 <p>Exercício 17 = Cálculo de hipotenusa
 <p>Exercício 18 = Seno, Cosseno e Tangente
-<p>Exercício 19 =
-<p>Exercício 20 =
-<p>Exercício 21 =
+<p>Exercício 19 = Sorteio de aluno
+<p>Exercício 20 = Sorteio de aluno v²
+<p>Exercício 21 = 
 
