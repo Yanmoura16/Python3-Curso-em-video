@@ -16,3 +16,10 @@ Python 3 Curso em video
 <p>Exercício 13 = Cálculo de Salário com aumento
 <p>Exercício 14 = Conversor de temperatura
 <p>Exercício 15 = Cálculo aluguel de carro
+<p>Exercício 16 = Quebrando um número 
+<p>Exercício 17 = Cálculo de hipotenusa
+<p>Exercício 18 =
+<p>Exercício 19 =
+<p>Exercício 20 =
+<p>Exercício 21 =
+
