@@ -22,7 +22,7 @@ Python 3 Curso em video
 <p>Exercício 19 = Sorteio de aluno
 <p>Exercício 20 = Sorteio de aluno v²
 <p>Exercício 21 = Tocando Musica pelo Python
-<p>Exercício 22 = 
+<p>Exercício 22 = Analisando texto
 <p>Exercício 23 = 
 <p>Exercício 24 =
 <p>Exercício 25 =
