@@ -1,16 +1,16 @@
-<p> 
-    text                    background
+
+ style                  text                        background              
  
-30      Black                Preto         40
-31      Red                  Vermelho      41
-32      Green                Verde         42
-33      Yellow               Amarelo       43
-34      Blue                 Azul          44
-35      Magenta              Magenta       45
-36      Cyan                 Ciano         46
-37      Grey                 Cinza         47
-97      White                Branco       107
+ 0   none               30      Black                Preto         40
+ 1   bold               31      Red                  Vermelho      41
+ 4   underline          32      Green                Verde         42
+ 7   negative           33      Yellow               Amarelo       43
+                        34      Blue                 Azul          44
+                        35      Magenta              Magenta       45
+                        36      Cyan                 Ciano         46
+                        37      Grey                 Cinza         47
+                        97      White                Branco       107
 
 
-\033[0:30:44m
+Ex:  \033[0:30:44m
 
