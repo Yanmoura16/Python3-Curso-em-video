@@ -34,5 +34,5 @@ Python 3 Curso em video
 <p>Exercício 31 = Custo de viagem
 <p>Exercício 32 = Ano Bissexto
 <p>Exercício 33 = Maior e menor valores
-<p>Exercício 34 = 
-<p>Exercício 35 = 
+<p>Exercício 34 = Aumentos múltiplos
+<p>Exercício 35 = Analisando Triângulo v1.0
