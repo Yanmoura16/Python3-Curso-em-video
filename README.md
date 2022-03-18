@@ -31,3 +31,8 @@ Python 3 Curso em video
 <p>Exercício 28 = Jogo da Adivinhação v.1.0
 <p>Exercício 29 = Radar eletrônico
 <p>Exercício 30 = Número PAR ou ímpar
+<p>Exercício 31 = Custo de viagem
+<p>Exercício 32 = Ano Bissexto
+<p>Exercício 33 = Maior e menor valores
+<p>Exercício 34 = 
+<p>Exercício 35 = 
