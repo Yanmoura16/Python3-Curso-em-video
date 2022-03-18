@@ -1,0 +1,12 @@
+print('===Desafio 04===')
+
+x = input('Digite algo para descobrir seu tipo: ')
+print(f'Você digitou {x} ')
+print(f'{x} é do tipo: ' , type(x))
+print(f'{x} é um valor numérico? ', x.isnumeric())
+print(f'{x} é um valor alphanumerico? ', x.isalnum())
+print(f'{x} é um valor alphabetico?  ', x.isalpha())
+print(f'{x} é espaço? ' , x.isspace())
+print(f'{x} está em minúsculo? ' , x.islower())
+print(f'{x} está em maiúscula? ' , x.isupper())
+print(f'{x} está capitalizado? ' , x.istitle())
