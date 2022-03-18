@@ -36,3 +36,4 @@ Python 3 Curso em video
 <p>Exercício 33 = Maior e menor valores
 <p>Exercício 34 = Aumentos múltiplos
 <p>Exercício 35 = Analisando Triângulo v1.0
+<p>Exercício 36 = Colorindo o terminal
