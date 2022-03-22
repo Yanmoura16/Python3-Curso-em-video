@@ -39,3 +39,5 @@ Python 3 Curso em video
 <p>Exercício 36 = Colorindo o terminal
 <p>Exercício 37 = Aprovando Empréstimo 
 <p>Exercício 38 = Conversor de Bases Numéricas
+<p>Exercício 39 = Comparando numeros
+<p>Exercício 40 = Alistamento militar
