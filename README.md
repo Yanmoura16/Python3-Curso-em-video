@@ -35,9 +35,16 @@ Python 3 Curso em video
 <p>Exercício 32 = Ano Bissexto
 <p>Exercício 33 = Maior e menor valores
 <p>Exercício 34 = Aumentos múltiplos
-<p>Exercício 35 = Analisando Triângulo v1.0
+<p>Exercício 35 = Analisando Triângulos v1.0
 <p>Exercício 36 = Colorindo o terminal
 <p>Exercício 37 = Aprovando Empréstimo 
 <p>Exercício 38 = Conversor de Bases Numéricas
 <p>Exercício 39 = Comparando numeros
 <p>Exercício 40 = Alistamento militar
+<p>Exercício 41 = Calculo de Média v2.0
+<p>Exercício 42 = Classificando Atletas
+<p>Exercício 43 = Analisando Triangulos v2.0
+<p>Exercício 44 = Calculo de IMC
+<p>Exercício 45 = Gerenciador de pagamentos
+<p>Exercício 46 = Pedra Papel e Tesoura
+<p>Exercício 47 =
