@@ -9,7 +9,7 @@ Python 3 Curso em video
 <p>Exercício 06 = Calculando Dobro, triplo e raiz quadrada de um número
 <p>Exercício 07 = Cálculo de média do aluno
 <p>Exercício 08 = Conversor de medida
-<p>Exercício 09 = Tabuada
+<p>Exercício 09 = Tabuada v1.0
 <p>Exercício 10 = Conversor R$ para $ 
 <p>Exercício 11 = Cálculo de área 
 <p>Exercício 12 = Cálculo de desconto
@@ -19,8 +19,8 @@ Python 3 Curso em video
 <p>Exercício 16 = Quebrando um número 
 <p>Exercício 17 = Cálculo de hipotenusa
 <p>Exercício 18 = Seno, Cosseno e Tangente
-<p>Exercício 19 = Sorteio de aluno
-<p>Exercício 20 = Sorteio de aluno v. 2.0
+<p>Exercício 19 = Sorteio de aluno v.1.0
+<p>Exercício 20 = Sorteio de aluno v.2.0
 <p>Exercício 21 = Tocando Musica pelo Python
 <p>Exercício 22 = Analisando texto
 <p>Exercício 23 = Separando o numero
@@ -47,4 +47,8 @@ Python 3 Curso em video
 <p>Exercício 44 = Calculo de IMC
 <p>Exercício 45 = Gerenciador de pagamentos
 <p>Exercício 46 = Pedra Papel e Tesoura
-<p>Exercício 47 =
+<p>Exercício 47 = Contagem regressiva
+<p>Exercício 48 = Contagem em pares
+<p>Exercício 49 = Soma Impares multiplos de 3
+<p>Exercício 50 = Tabuada v2.0
+<p>Exercício 51 = Soma dos numeros pares
