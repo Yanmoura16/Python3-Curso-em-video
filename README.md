@@ -52,3 +52,7 @@ Python 3 Curso em video
 <p>Exercício 49 = Soma Impares multiplos de 3
 <p>Exercício 50 = Tabuada v2.0
 <p>Exercício 51 = Soma dos numeros pares
+<p>Exercício 52 = Progressão Aritmética
+<p>Exercício 53 = Números primos
+<p>Exercício 54 = 
+<p>Exercício 55 =
