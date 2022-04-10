@@ -54,5 +54,8 @@ Python 3 Curso em video
 <p>Exercício 51 = Soma dos numeros pares
 <p>Exercício 52 = Progressão Aritmética
 <p>Exercício 53 = Números primos
-<p>Exercício 54 = 
-<p>Exercício 55 =
+<p>Exercício 54 = Palíndromo
+<p>Exercício 55 = Grupo de maioridade
+<p>Exercício 56 = Maior e menor sequência
+<p>Exercício 57 = Analisador completo
+
