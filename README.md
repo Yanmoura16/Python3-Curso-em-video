@@ -58,4 +58,8 @@ Python 3 Curso em video
 <p>Exercício 55 = Grupo de maioridade
 <p>Exercício 56 = Maior e menor sequência
 <p>Exercício 57 = Analisador completo
-
+<p>Exercício 58 = Validação de Dados
+<p>Exercício 59 = Jogo da Adivinhação v2.0
+<p>Exercício 60 = Criando um menu de opções
+<p>Exercício 61 = Calculo fatorial
+<p>Exercício 62 = Progressão Aritmética v2.0
