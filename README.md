@@ -63,3 +63,11 @@ Python 3 Curso em video
 <p>Exercício 60 = Criando um menu de opções
 <p>Exercício 61 = Calculo fatorial
 <p>Exercício 62 = Progressão Aritmética v2.0
+<p>Exercicio 63 = Progressão Aritmética v3.0
+<p>Exercicio 64 = Sequência de Fibonacci v1.0
+<p>Exercicio 65 = Tratando vários valores v1.0
+<p>Exercicio 66 = Maior e Menor valores
+<p>Exercicio 67 = Vários números com flag
+<p>Exercicio 68 = Tabuada v3.0
+<p>Exercicio 69 = Jogo do Par ou Ímpar
+<p>Exercicio 70 = Análise de dados do grupo
